@@ -49,7 +49,7 @@ public class QrController {
 //        }catch (Exception e){log.warn("QR Code OutputStream 도중 Excpetion 발생, {}", e.getMessage());}
 
     }
-w
+
 
 
 }
